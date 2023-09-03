@@ -1,6 +1,8 @@
 import { Container } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
 import st1 from "../../assets/img/soporteTecnico/st1.png";
+import st2 from "../../assets/img/soporteTecnico/st2.png";
+import st3 from "../../assets/img/soporteTecnico/st3.png";
 
 function SoporteTecnico() {
   return (
@@ -50,7 +52,25 @@ function SoporteTecnico() {
                       plan móvil en la pestaña Líneas del MCT y arroja el error:
                       Información no disponible
                     </p>
-                    <img src={st1} />
+                    <img src={st2} />
+                  </Accordion.Body>
+                </Accordion.Item>
+              </Accordion>
+            </div>
+            <div className="container mt-3 ">
+              <Accordion defaultActiveKey="1">
+                <Accordion.Item eventKey="0">
+                  <Accordion.Header>
+                    Liberación de líneas portadas (cliente intenta portarse a
+                    otra compañía pero le indican que Mundo tiene el número
+                    retenido).
+                  </Accordion.Header>
+                  <Accordion.Body>
+                    <p>
+                      Verificar que la cuenta esté al día, que tenga más de 60
+                      días con el servicio y que el número no esté dado de baja.
+                    </p>
+                    <img src={st3} />
                   </Accordion.Body>
                 </Accordion.Item>
               </Accordion>
