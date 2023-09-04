@@ -1,7 +1,7 @@
 import { Container } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
-import oa1 from "../../assets/img/otras areas/oa1.png";
-import oa2 from "../../assets/img/otras areas/oa2.png";
+import oa1 from "../../../assets/img/otrasAreas/oa1.png";
+import oa2 from "../../../assets/img/otrasAreas/oa2.png";
 
 function OtrasAreas() {
   return (
@@ -26,7 +26,7 @@ function OtrasAreas() {
                     <p>Área solicitante:</p>
                     <p>Reclamos / Multicanalidad</p>
                     <hr></hr>
-                    <p>Veridicaciones :</p>
+                    <p>Verificaciones :</p>
                     <p>
                       Posterior a la gestión del reclamo, multicanalidad escala
                       a soporte.sistemas solicitando la reversa, así como a
@@ -49,7 +49,7 @@ function OtrasAreas() {
                     <p>Área solicitante:</p>
                     <p>BO Móvil / Sucursales / Terreno / Televentas</p>
                     <hr></hr>
-                    <p>Veridicaciones :</p>
+                    <p>Verificaciones :</p>
                     <p>
                       Se debe verificar el estado de la línea en el menú
                       configuración y luego en el botón del teléfono.
@@ -69,7 +69,7 @@ function OtrasAreas() {
                     <p>Área solicitante:</p>
                     <p>Jefatura y Gerencia del producto móvil</p>
                     <hr></hr>
-                    <p>Veridicaciones :</p>
+                    <p>Verificaciones :</p>
                     <p>Según el criterio y la necesidad del área.</p>
                     <p>soporte.sistemas@mundotelecomunicaciones.cl</p>
                   </Accordion.Body>
@@ -87,7 +87,7 @@ function OtrasAreas() {
                     <p>Área solicitante:</p>
                     <p>Sucursales / Canales de venta</p>
                     <hr></hr>
-                    <p>Veridicaciones :</p>
+                    <p>Verificaciones :</p>
                     <p>
                       Constatar que el número del cliente no está asignado a su
                       contrato, ingresando en el MCT y luego en las pestañas
@@ -109,7 +109,7 @@ function OtrasAreas() {
                     <p>Área solicitante:</p>
                     <p>BO Móvil / Sucursales / Terreno</p>
                     <hr></hr>
-                    <p>Veridicaciones :</p>
+                    <p>Verificaciones :</p>
                     <p>
                       Se trata de una incidencia. La solicitud es formulada
                       generalmente por áreas encargadas de la activación de SIM,

@@ -1,9 +1,9 @@
 import { Container } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
-import pl1 from "../../assets/img/primera linea/pl1.png";
-import pl2 from "../../assets/img/primera linea/pl2.png";
-import pl3 from "../../assets/img/primera linea/pl3.png";
-import pl4 from "../../assets/img/primera linea/pl4.png";
+import pl1 from "../../../assets/img/primeraLinea/pl1.png";
+import pl2 from "../../../assets/img/primeraLinea/pl2.png";
+import pl3 from "../../../assets/img/primeraLinea/pl3.png";
+import pl4 from "../../../assets/img/primeraLinea/pl4.png";
 
 function PrimeraLinea() {
   return (

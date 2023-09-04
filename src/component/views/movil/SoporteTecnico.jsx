@@ -1,8 +1,8 @@
 import { Container } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
-import st1 from "../../assets/img/soporteTecnico/st1.png";
-import st2 from "../../assets/img/soporteTecnico/st2.png";
-import st3 from "../../assets/img/soporteTecnico/st3.png";
+import st1 from "../../../assets/img/soporteTecnico/st1.png";
+import st2 from "../../../assets/img/soporteTecnico/st2.png";
+import st3 from "../../../assets/img/soporteTecnico/st3.png";
 
 function SoporteTecnico() {
   return (

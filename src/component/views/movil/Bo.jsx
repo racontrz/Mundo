@@ -1,9 +1,9 @@
 import { Container } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
-import bo1 from "../../assets/img/Bo/bo1.png";
-import bo2 from "../../assets/img/Bo/bo2.png";
-import bo3 from "../../assets/img/Bo/bo3.png";
-import bo4 from "../../assets/img/Bo/bo4.png";
+import bo1 from "../../../assets/img/Bo/bo1.png";
+import bo2 from "../../../assets/img/Bo/bo2.png";
+import bo3 from "../../../assets/img/Bo/bo3.png";
+import bo4 from "../../../assets/img/Bo/bo4.png";
 
 function Bo() {
   return (

@@ -1,7 +1,7 @@
 import { Container } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
-import r1 from "../../assets/img/robo, hurto y extravío/r1.png";
-import r2 from "../../assets/img/robo, hurto y extravío/r2.png";
+import r1 from "../../../assets/img/roboHurto/r1.png";
+import r2 from "../../../assets/img/roboHurto/r2.png";
 
 function RoboHurto() {
   return (
