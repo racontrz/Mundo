@@ -1,9 +1,10 @@
 import React from 'react'
+import Formularios from '../component/views/otros/Formularios'
 
 const Otros = () => {
   return (
     <div>
-      <p className='text-center mt-3 fs-6'>En Construcción</p>
+      <Formularios />
     </div>
   )
 }

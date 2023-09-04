@@ -4,7 +4,7 @@ import Accordion from "react-bootstrap/Accordion";
 function Formularios() {
   return (
     <div className="container mt-3">
-      <Accordion defaultActiveKey="1" className="mb-5">
+      <Accordion defaultActiveKey="1" className="mt-5">
         <Accordion.Item eventKey="0">
           <Accordion.Header>Formularios</Accordion.Header>
           <Accordion.Body>
