@@ -9,7 +9,7 @@ function Formularios() {
           <Accordion.Header>Formularios</Accordion.Header>
           <Accordion.Body>
             <div className="d-flex flex-wrap">
-            <div>
+            <div className="m-2">
               <p>
                 <a
                   href="https://drive.google.com/file/d/1Wl5a-AcTLzioQ1rQlLZ74gcwbauw2R6o/view?usp=drive_link"
@@ -21,7 +21,7 @@ function Formularios() {
                 </a>
               </p>
             </div>
-            <div>
+            <div className="m-2">
               <p>
                 <a
                   href="https://docs.google.com/document/d/10gbMsZX-8ABFWcDV6nPk8ka166hDB-0H/edit?usp=drive_link&ouid=108019970938918647926&rtpof=true&sd=true"

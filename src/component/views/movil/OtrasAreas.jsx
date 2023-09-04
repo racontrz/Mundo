@@ -102,6 +102,40 @@ function OtrasAreas() {
               <Accordion defaultActiveKey="1">
                 <Accordion.Item eventKey="0">
                   <Accordion.Header>
+                    Asignación de números retenidos en una oferta de baja
+                  </Accordion.Header>
+                  <Accordion.Body>
+                    <p>Área solicitante:</p>
+                    <p>Sucursales / Canales de venta</p>
+                    <hr></hr>
+                    {/* <p>Verificaciones :</p> */}
+                    <p>
+                      Cuando un cliente que se portó de Mundo a otra compañía, y
+                      decide regresar al Mundo, el número se encontraba retenido
+                      en una oferta de baja, ¿Como se le asigna el mismo número
+                      telefonico al cliente?
+                    </p>
+                    <p>
+                      - Se debe generar un nuevo contrato en estado de borrador
+                      que de una numeración vigente.
+                    </p>
+                    <p>
+                      - En este contrato se debe generar una tarea, la cual debe
+                      ser : Asignación de números específicos a contratos
+                      (relacionar número móvil determinado a un MCT) Sop
+                      -Requerimientos / Asignación de números a contrato / Pdte
+                      BO Móvil (Pdte I + D Técnico)
+                    </p>
+
+                    <img src={oa2} />
+                  </Accordion.Body>
+                </Accordion.Item>
+              </Accordion>
+            </div>
+            <div className="container mt-3 ">
+              <Accordion defaultActiveKey="1">
+                <Accordion.Item eventKey="0">
+                  <Accordion.Header>
                     Error de opción de cambio de SIM (no se puede realizar el
                     cambio de dispositivo)
                   </Accordion.Header>
@@ -121,6 +155,7 @@ function OtrasAreas() {
                 </Accordion.Item>
               </Accordion>
             </div>
+
             <div className="me-4 mt-3 text-end fs-6">
               <p>Informacion al 01/09/2023</p>
             </div>
