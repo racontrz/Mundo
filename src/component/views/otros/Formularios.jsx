@@ -8,7 +8,7 @@ function Formularios() {
         <Accordion.Item eventKey="0">
           <Accordion.Header>Formularios</Accordion.Header>
           <Accordion.Body>
-            <div className="dd-flex flex-wrap">
+            <div className="d-flex flex-wrap">
             <div>
               <p>
                 <a
