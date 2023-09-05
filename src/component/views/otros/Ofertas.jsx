@@ -21,7 +21,18 @@ function Ofertas() {
                 </a>
               </p>
             </div>
-            
+            <div className="m-2">
+              <p>
+                <a
+                  href="https://drive.google.com/file/d/1VbnxyJO47jwJ8X8ZPz1-cXyhtYq-lp2b/view?usp=drive_link"
+                  target="_blank"
+                >
+                  <button type="button" class="btn btn-outline-primary">
+                    Grilla de Canales - Agosto 2023
+                  </button>
+                </a>
+              </p>
+            </div>
             </div>
             <div className="me-4 mt-3 text-end fs-6">
               {/* <p>Informacion al 01/07/2023</p> */}
