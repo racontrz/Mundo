@@ -157,7 +157,7 @@ function OtrasAreas() {
             </div>
 
             <div className="me-4 mt-3 text-end fs-6">
-              <p>Informacion al 01/09/2023</p>
+              <p>Informacion al 06/09/2023</p>
             </div>
           </Accordion.Body>
         </Accordion.Item>
