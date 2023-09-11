@@ -33,6 +33,18 @@ function Formularios() {
                 </a>
               </p>
             </div>
+            <div className="m-2">
+              <p>
+                <a
+                  href="https://drive.google.com/file/d/1C5iYWUSTLHlvIzpzT11Z5FgEEtIZ_DYm/view?usp=drive_link"
+                  target="_blank"
+                >
+                  <button type="button" class="btn btn-outline-primary">
+                    Formulario de Recepcion de Equipos
+                  </button>
+                </a>
+              </p>
+            </div>
             </div>
             <div className="me-4 mt-3 text-end fs-6">
               {/* <p>Informacion al 01/07/2023</p> */}
